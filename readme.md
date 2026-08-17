@@ -1,4 +1,4 @@
 # Git cOURSE
 This is a code
-# this is chaange from feature branch
-# this is feature2.0
+# This is change from feature branch
+# This is feature2.0
